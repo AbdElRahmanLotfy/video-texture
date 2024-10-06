@@ -40,7 +40,7 @@ function VideoText(props) {
   useEffect(() => void video.play(), [video]);
   return (
     <Text fontSize={3} letterSpacing={-0.06} {...props}>
-      HOPE
+      IIIIIIIIIIII
       <meshBasicMaterial toneMapped={false}>
         <videoTexture
           attach="map"
